@@ -7,7 +7,7 @@ export const HomeContainer = styled.main`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  overflow: auto;
+
   form {
     display: flex;
     flex-direction: column;
