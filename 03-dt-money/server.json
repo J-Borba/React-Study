@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-09T18:47:11.752Z"
+    },
+    {
+      "description": "Testando",
+      "price": 20,
+      "category": "testando",
+      "type": "outcome",
+      "createdAt": "2023-05-10T16:13:53.298Z",
+      "id": 2
+    },
+    {
+      "description": "Desenvolvimento Mobile",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-05-10T16:18:55.338Z",
+      "id": 3
+    },
+    {
+      "description": "Fazer Post",
+      "price": 1000,
+      "category": "Dev",
+      "type": "outcome",
+      "createdAt": "2023-05-10T17:12:36.175Z",
+      "id": 4
+    }
+  ]
+}
