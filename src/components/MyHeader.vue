@@ -1,8 +1,8 @@
 <template>
   <header>
       <nav>
-        <router-link to="/" class="imgLink">
-          <img src="@/assets/logo-abbr.png" alt="">
+        <router-link to="/" class="imgRouterLink">
+          <img src="@/assets/logo-abbr.png" alt="" id="abbrLogo">
         </router-link> 
 
         <div class="links-wrapper">
@@ -51,7 +51,7 @@
     gap: 1rem;
   }
 
-  .imgLink {
+  .imgRouterLink {
     border: none !important;
     line-height: 0;
   }
